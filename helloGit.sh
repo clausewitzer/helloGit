@@ -5,4 +5,3 @@
 
 
 echo "hello git "
-Hello good
